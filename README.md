@@ -5,3 +5,5 @@ Small example showing use of Entity Framework Core, "code first" approach and se
 Please remember that to start this app, you have to:
 
 - create database by using `Update-Database` (you might need to change the connection string to do that).
+
+If you want to organized your solution a little better, you might need to watch [Clean Architecture with ASP.NET Core 6](https://youtu.be/lkmvnjypENw) or [Clean Architecture Example & Breakdown - Do I use it?](https://youtu.be/Ys_W6MyWOCw).
