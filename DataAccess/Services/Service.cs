@@ -13,7 +13,7 @@ public class Service : IService
         _context = context;
     }
 
-    public async Task<IEnumerable<ProjectSummaryVM>> GetAllProjects()
+    public async Task<IEnumerable<ProjectSummaryVM>> GetAllProjectsAsync()
     {
         return await _context.Projects
             .Include(p => p.Manager)
