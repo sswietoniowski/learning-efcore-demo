@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using Application.Contracts.Persistence;
 using WebUI.Models;
-using WebUI.Repository;
 
 namespace WebUI.Controllers;
 

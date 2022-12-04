@@ -1,8 +1,8 @@
-﻿using DataAccess;
+﻿using Application.Contracts.Persistence;
+using Application.Models;
 using Microsoft.EntityFrameworkCore;
-using WebUI.Models;
 
-namespace WebUI.Repository;
+namespace DataAccess.Services;
 
 public class Service : IService
 {

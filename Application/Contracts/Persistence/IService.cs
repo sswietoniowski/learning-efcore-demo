@@ -1,6 +1,6 @@
-﻿using WebUI.Models;
+﻿using Application.Models;
 
-namespace WebUI.Repository;
+namespace Application.Contracts.Persistence;
 
 public interface IService
 {

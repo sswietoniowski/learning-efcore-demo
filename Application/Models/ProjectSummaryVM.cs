@@ -1,4 +1,4 @@
-﻿namespace WebUI.Models;
+﻿namespace Application.Models;
 
 public class ProjectSummaryVM
 {

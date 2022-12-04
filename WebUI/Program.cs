@@ -1,6 +1,7 @@
+using Application.Contracts.Persistence;
 using DataAccess;
+using DataAccess.Services;
 using Microsoft.EntityFrameworkCore;
-using WebUI.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
