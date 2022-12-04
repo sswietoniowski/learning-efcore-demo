@@ -4,5 +4,5 @@ namespace Application.Contracts.Persistence;
 
 public interface IService
 {
-    Task<IEnumerable<ProjectSummaryVM>> GetAllProjects();
+    Task<IEnumerable<ProjectSummaryVM>> GetAllProjectsAsync();
 }

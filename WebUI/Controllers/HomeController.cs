@@ -18,7 +18,7 @@ public class HomeController : Controller
 
     public async Task<IActionResult> Index()
     {
-        var projects = await _service.GetAllProjects();
+        var projects = await _service.GetAllProjectsAsync();
 
         return View(projects);
     }
