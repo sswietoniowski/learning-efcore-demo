@@ -1,6 +1,6 @@
 # Entity Framework Core Demo
 
-Small example showing use of Entity Framework Core, "code first" approach and semi-onion architecture. This sample was created for my own use during lectures, so nothing fancy here :-).
+Small example showing use of [Entity Framework Core](https://github.com/dotnet/efcore), "code first" approach and semi-onion architecture. This sample was created for my own use during lectures, so nothing fancy here :-).
 
 Please remember that to start this app, you have to:
 
