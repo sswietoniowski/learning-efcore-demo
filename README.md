@@ -11,3 +11,5 @@ If you want to organized your solution a little better, you might need to watch 
 Interesting introduction to the onion architecture can be found [here](https://www.codeguru.com/csharp/understanding-onion-architecture/).
 
 [Here](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures) MS described different architectures and theirs pros & cons.
+
+I would also recommend to watch [this](https://youtu.be/JubdZIdLQ4M) comparison video about different architectures.
